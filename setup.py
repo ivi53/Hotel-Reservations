@@ -10,7 +10,7 @@ setup(
     description="System for hotel reservations",
     license="MIT",
     keywords="python hotel reservation",
-    url="http://example.com/hello_world/"
+    url="https://github.com/ivi53/Hotel-Reservations"
     classifiers=[
         "Development Status :: 1 - Planning",
         "Environment :: Console",
