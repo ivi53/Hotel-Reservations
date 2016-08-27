@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name="Hotel Reservations",
-    version="0.1",
+    version="1.0",
     packages=find_packages(),
-    install_requires=['nothing so far'],
+    install_requires=[],
     author="Iveta Champoeva",
     author_email="ivi5317@gmail.com",
     description="System for hotel reservations",
